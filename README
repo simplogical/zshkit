@@ -1,0 +1,13 @@
+# Install
+* git clone git@github.com:simplogical/zshkit.git
+* cd zshkit
+* install
+
+# Update
+* zshkit-update
+
+# Extending
+* edit an existing file or create a new file following the 00_desc format. The numbers
+  control the order.
+* don't forget to commit and push updates to github
+
